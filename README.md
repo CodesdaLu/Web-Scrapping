@@ -5,12 +5,15 @@
 </br>
 
 This project is a web scraping tool designed to extract data from websites and provide structured information for various purposes. Whether you're a developer, data analyst, or researcher, this tool can help you gather valuable data from the web.
- I used price analysis of products between stores Pichau and Kabum.
+I used price analysis of products between stores Pichau and Kabum.
 
 
- ## API 
+### API 
+[Twilio](https://www.twilio.com)
 
-#### Twilio API whatsapp for alert the good price
+
+
+#### API WhatsApp for alert the good price
 </br>
 <img src="https://github.com/CodesdaLu/Web-Scrapping/blob/main/alert_twilio.png" alt="alert wpp" width="550" height="800">
 
